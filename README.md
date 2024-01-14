@@ -6,4 +6,4 @@ Install with double click and that's it
 
 - What is DownGit ? ➦ DownGit from chris1111 is here [DownGit](https://github.com/chris1111/DownGit)
 
-- Download ➦ [DownGit-Install](https://github.com/chris1111/DownGit-StatusBarApp/Master/raw/DownGit-Install.zip)
+- Download ➦ [DownGit-Install](https://github.com/chris1111/DownGit-StatusBarApp/raw/Master/DownGit-Install.zip)

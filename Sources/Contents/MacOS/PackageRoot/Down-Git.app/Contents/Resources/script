@@ -1,0 +1,5 @@
+#!/bin/sh
+apptitle="DownGit"
+version="1.0"
+open 'https://chris1111.github.io/DownGit/#/home'
+

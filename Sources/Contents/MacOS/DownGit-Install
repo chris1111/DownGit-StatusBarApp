@@ -1,0 +1,11 @@
+#!/bin/sh
+PARENTDIR=$(dirname "$0")
+cd "$PARENTDIR"
+apptitle="DownGit-Install"
+version="1.0"
+Sleep 2
+cp -r ./PackageRoot/"Down-Git.app" /Applications
+
+osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Down-Git.app", hidden:false}'
+Sleep 1
+Open -a /Applications/"Down-Git.app"
